@@ -3,3 +3,7 @@ pypdf
 python-dotenv
 streamlit
 google-generativeai
+streamlit
+pandas
+numpy
+plotly
