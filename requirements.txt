@@ -1,2 +1,5 @@
 reportlab
 pypdf
+python-dotenv
+streamlit
+google-generativeai
