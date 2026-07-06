@@ -2,7 +2,7 @@ reportlab
 pypdf
 python-dotenv
 streamlit
-google-generativeai
+google-genai
 streamlit
 pandas
 numpy
