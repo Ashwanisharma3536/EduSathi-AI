@@ -1,0 +1,29 @@
+.main {
+    background-color: #f5f7fb;
+}
+
+h1 {
+    color: #1E3A8A;
+    font-weight: 800;
+}
+
+.stButton>button {
+    background: linear-gradient(90deg, #2563eb, #7c3aed);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 0.6rem 1.5rem;
+    font-weight: bold;
+}
+
+.stButton>button:hover {
+    transform: scale(1.02);
+}
+
+div[data-testid="stSidebar"] {
+    background: #0F172A;
+}
+
+div[data-testid="stSidebar"] * {
+    color: white;
+}
